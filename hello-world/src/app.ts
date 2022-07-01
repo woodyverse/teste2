@@ -152,7 +152,7 @@ export default class HelloWorld {
 				
 			});
 			//this.cube = MRE.ActorTransform(4,4,4);
-			//flipAnim.play();
+			flipAnim.play();
 		});
 	}
 
